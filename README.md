@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SUMiRE233
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on online games
-- 📫 How to reach me XXX
+- 📫 How to reach me X
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
